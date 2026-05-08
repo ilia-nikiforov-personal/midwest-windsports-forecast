@@ -20,6 +20,7 @@ Rideable periods:
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
 Rideable periods:
 
+ - 2026-05-08 from 16:00 to 18:00
  - 2026-05-09 from 14:00 to 20:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
