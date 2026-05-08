@@ -133,7 +133,7 @@ with open("README.md","w") as f:
 
         print(f" # Forecast at {location['latitude']}, {location['longitude']} ({location['name']})", file=f)
         
-        print(f"![Forecast at {location['latitude']}, {location['longitude']} ({location['name']})]({imname})", file=f)
+        print(f"![Forecast at {location['latitude']}, {location['longitude']} ({location['name']})]({imname}?)", file=f)
         if len(windy_periods) == 0:
             print("No rideable periods found :(", file=f)
         else:
