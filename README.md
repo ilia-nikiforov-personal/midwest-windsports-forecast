@@ -16,7 +16,7 @@ Rideable periods:
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
 Rideable periods:
 
- - 2026-05-09 from 10:00 to 19:00
+ - 2026-05-09 from 10:00 to 18:00
  - 2026-05-10 from 13:00 to 16:00
  - 2026-05-12 from 11:00 to 21:00
  # Forecast at 44.27, -93.35 (Cannon)
@@ -42,14 +42,14 @@ Rideable periods:
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
 Rideable periods:
 
- - 2026-05-09 from 10:00 to 20:00
+ - 2026-05-09 from 10:00 to 19:00
  - 2026-05-10 from 11:00 to 17:00
  - 2026-05-12 from 8:00 to 21:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 Rideable periods:
 
- - 2026-05-09 from 10:00 to 19:00
+ - 2026-05-09 from 8:00 to 19:00
  - 2026-05-10 from 12:00 to 16:00
  - 2026-05-12 from 9:00 to 21:00
  # Forecast at 46.73, -92.04 (Park_Point)
@@ -68,7 +68,7 @@ Rideable periods:
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png?)
 Rideable periods:
 
- - 2026-05-09 from 13:00 to 17:00
+ - 2026-05-09 from 12:00 to 17:00
  - 2026-05-12 from 11:00 to 21:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
