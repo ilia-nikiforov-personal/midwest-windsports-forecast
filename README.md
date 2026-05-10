@@ -38,7 +38,6 @@ Rideable periods:
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
 Rideable periods:
 
- - 2026-05-10 from 15:00 to 18:00
  - 2026-05-12 from 8:00 to 21:00
  - 2026-05-13 from 9:00 to 14:00
  # Forecast at 44.51, -92.96 (Byllesby)
@@ -72,5 +71,5 @@ Rideable periods:
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
 
- - 2026-05-10 from 10:00 to 20:00
+ - 2026-05-10 from 10:00 to 19:00
  - 2026-05-12 from 8:00 to 21:00
