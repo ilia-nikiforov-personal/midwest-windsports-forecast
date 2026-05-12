@@ -79,7 +79,7 @@ Rideable periods:
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png?)
 Rideable periods:
 
- - 2026-05-12 from 10:00 to 21:00
+ - 2026-05-12 from 10:00 to 20:00
  - 2026-05-14 from 12:00 to 18:00
  - 2026-05-15 from 15:00 to 17:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
