@@ -24,7 +24,7 @@ Rideable periods:
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
 Rideable periods:
 
- - 2026-05-12 from 8:00 to 20:00
+ - 2026-05-12 from 8:00 to 21:00
  - 2026-05-13 from 13:00 to 16:00
  - 2026-05-14 from 11:00 to 18:00
  - 2026-05-14 from 19:00 to 21:00
@@ -50,7 +50,7 @@ Rideable periods:
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
 Rideable periods:
 
- - 2026-05-12 from 9:00 to 20:00
+ - 2026-05-12 from 9:00 to 21:00
  - 2026-05-13 from 15:00 to 17:00
  - 2026-05-14 from 12:00 to 20:00
  - 2026-05-15 from 15:00 to 18:00
@@ -94,6 +94,6 @@ Rideable periods:
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
 
- - 2026-05-12 from 9:00 to 21:00
+ - 2026-05-12 from 9:00 to 20:00
  - 2026-05-14 from 6:00 to 21:00
  - 2026-05-15 from 11:00 to 20:00
