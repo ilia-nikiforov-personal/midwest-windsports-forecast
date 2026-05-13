@@ -21,7 +21,7 @@ Rideable periods:
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
 Rideable periods:
 
- - 2026-05-13 from 12:00 to 16:00
+ - 2026-05-13 from 12:00 to 15:00
  - 2026-05-14 from 9:00 to 18:00
  - 2026-05-15 from 13:00 to 17:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
@@ -34,7 +34,7 @@ Rideable periods:
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
 Rideable periods:
 
- - 2026-05-14 from 10:00 to 17:00
+ - 2026-05-14 from 8:00 to 17:00
  - 2026-05-14 from 19:00 to 21:00
  - 2026-05-15 from 8:00 to 17:00
  # Forecast at 44.49, -92.29 (Lake_Pepin)
@@ -46,7 +46,7 @@ Rideable periods:
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 Rideable periods:
 
- - 2026-05-14 from 10:00 to 18:00
+ - 2026-05-14 from 11:00 to 18:00
  - 2026-05-15 from 13:00 to 16:00
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
@@ -69,7 +69,7 @@ Rideable periods:
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 Rideable periods:
 
- - 2026-05-13 from 10:00 to 17:00
+ - 2026-05-13 from 10:00 to 19:00
  - 2026-05-14 from 8:00 to 21:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
