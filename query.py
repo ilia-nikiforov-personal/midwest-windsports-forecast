@@ -19,6 +19,7 @@ locations = [
     {"latitude": 46.73, "longitude": -92.04, "name": "Park_Point"},    
     {"latitude": 45.07, "longitude": -94.35, "name": "Lake_Washington"},
     {"latitude": 45.01, "longitude": -93.43, "name": "Medicine_Lake"},
+    {"latitude": 46.01, "longitude": -95.30, "name": "Miltona"},
     {"latitude": 43.13, "longitude": -93.40, "name": "Clear_Lake_IA"},
     {"latitude": 43.48, "longitude": -95.10, "name": "Spirit_Lake_IA"},
     
