@@ -22,15 +22,15 @@ Rideable periods:
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 Rideable periods:
 
- - 2026-05-15 from 12:00 to 17:00
- - 2026-05-16 from 11:00 to 18:00
+ - 2026-05-15 from 12:00 to 16:00
+ - 2026-05-16 from 9:00 to 18:00
  - 2026-05-17 from 8:00 to 17:00
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
 Rideable periods:
 
  - 2026-05-15 from 13:00 to 15:00
- - 2026-05-15 from 16:00 to 20:00
+ - 2026-05-15 from 17:00 to 19:00
  - 2026-05-16 from 16:00 to 18:00
  - 2026-05-17 from 8:00 to 13:00
  - 2026-05-17 from 14:00 to 16:00
@@ -51,7 +51,7 @@ Rideable periods:
 Rideable periods:
 
  - 2026-05-15 from 13:00 to 20:00
- - 2026-05-16 from 11:00 to 18:00
+ - 2026-05-16 from 10:00 to 18:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 Rideable periods:
@@ -71,7 +71,7 @@ Rideable periods:
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 Rideable periods:
 
- - 2026-05-15 from 17:00 to 19:00
+ - 2026-05-15 from 17:00 to 20:00
  - 2026-05-17 from 6:00 to 9:00
  - 2026-05-17 from 13:00 to 19:00
  - 2026-05-18 from 6:00 to 8:00
