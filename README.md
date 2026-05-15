@@ -37,7 +37,7 @@ Rideable periods:
 Rideable periods:
 
  - 2026-05-14 from 10:00 to 16:00
- - 2026-05-15 from 12:00 to 20:00
+ - 2026-05-15 from 13:00 to 20:00
  - 2026-05-17 from 8:00 to 11:00
  - 2026-05-17 from 15:00 to 17:00
  # Forecast at 44.49, -92.29 (Lake_Pepin)
@@ -81,5 +81,5 @@ Rideable periods:
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
 
- - 2026-05-14 from 6:00 to 19:00
+ - 2026-05-14 from 6:00 to 20:00
  - 2026-05-17 from 11:00 to 21:00
