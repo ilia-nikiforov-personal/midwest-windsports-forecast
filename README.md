@@ -31,7 +31,7 @@ Rideable periods:
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
 Rideable periods:
 
- - 2026-05-16 from 11:00 to 17:00
+ - 2026-05-16 from 12:00 to 18:00
  - 2026-05-17 from 9:00 to 15:00
  - 2026-05-17 from 17:00 to 21:00
  # Forecast at 44.49, -92.29 (Lake_Pepin)
