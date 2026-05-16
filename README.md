@@ -13,9 +13,7 @@ Rideable periods:
  - 2026-05-17 from 11:00 to 13:00
  # Forecast at 45.09, -92.99 (White_Bear_Lake)
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
-Rideable periods:
-
- - 2026-05-16 from 12:00 to 14:00
+No rideable periods found :(
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
 No rideable periods found :(
@@ -44,7 +42,7 @@ No rideable periods found :(
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 Rideable periods:
 
- - 2026-05-16 from 11:00 to 20:00
+ - 2026-05-16 from 11:00 to 19:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 Rideable periods:
