@@ -17,7 +17,6 @@ No rideable periods found :(
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
 Rideable periods:
 
- - 2026-05-22 from 14:00 to 16:00
  - 2026-05-24 from 14:00 to 17:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
@@ -35,7 +34,7 @@ No rideable periods found :(
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
 Rideable periods:
 
- - 2026-05-22 from 14:00 to 18:00
+ - 2026-05-22 from 14:00 to 19:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 Rideable periods:
@@ -48,6 +47,7 @@ No rideable periods found :(
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 Rideable periods:
 
+ - 2026-05-22 from 14:00 to 16:00
  - 2026-05-24 from 9:00 to 11:00
  - 2026-05-24 from 15:00 to 17:00
  # Forecast at 45.01, -93.43 (Medicine_Lake)
@@ -57,7 +57,7 @@ No rideable periods found :(
 ![Forecast at 46.01, -95.3 (Miltona)](Miltona.png?)
 Rideable periods:
 
- - 2026-05-22 from 11:00 to 13:00
+ - 2026-05-22 from 11:00 to 14:00
  - 2026-05-23 from 14:00 to 16:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
@@ -71,7 +71,7 @@ Rideable periods:
 Rideable periods:
 
  - 2026-05-22 from 12:00 to 14:00
- - 2026-05-22 from 16:00 to 19:00
+ - 2026-05-22 from 15:00 to 20:00
  - 2026-05-24 from 10:00 to 19:00
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
