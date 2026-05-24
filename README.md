@@ -39,7 +39,9 @@ Rideable periods:
  - 2026-05-25 from 8:00 to 14:00
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-05-27 from 14:00 to 16:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 No rideable periods found :(
@@ -56,7 +58,9 @@ Rideable periods:
  - 2026-05-25 from 11:00 to 16:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-05-26 from 14:00 to 17:00
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 Rideable periods:
