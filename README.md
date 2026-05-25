@@ -9,15 +9,17 @@ at least 2 consecutive daytime hours with:
 ![Forecast at 44.87, -93.76 (Waconia)](Waconia.png?)
 Rideable periods:
 
- - 2026-05-25 from 9:00 to 11:00
+ - 2026-05-25 from 7:00 to 12:00
  # Forecast at 45.09, -92.99 (White_Bear_Lake)
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-05-25 from 9:00 to 12:00
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
 Rideable periods:
 
- - 2026-05-25 from 9:00 to 13:00
+ - 2026-05-25 from 7:00 to 15:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 No rideable periods found :(
@@ -29,12 +31,14 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 44.49, -92.29 (Lake_Pepin)
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-05-25 from 9:00 to 15:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 Rideable periods:
 
- - 2026-05-25 from 8:00 to 13:00
+ - 2026-05-25 from 8:00 to 15:00
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 Rideable periods:
@@ -44,10 +48,12 @@ Rideable periods:
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 Rideable periods:
 
- - 2026-05-25 from 8:00 to 10:00
+ - 2026-05-25 from 7:00 to 11:00
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-05-25 from 7:00 to 11:00
  # Forecast at 46.01, -95.3 (Miltona)
 ![Forecast at 46.01, -95.3 (Miltona)](Miltona.png?)
 No rideable periods found :(
@@ -61,7 +67,7 @@ Rideable periods:
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
 
- - 2026-05-25 from 6:00 to 14:00
+ - 2026-05-25 from 6:00 to 13:00
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 Rideable periods:
