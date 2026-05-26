@@ -16,15 +16,19 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-05-27 from 14:00 to 19:00
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-05-26 from 18:00 to 20:00
  # Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)
 ![Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)](Mille_Lacs_Garrison.png?)
 Rideable periods:
 
- - 2026-05-27 from 15:00 to 17:00
+ - 2026-05-27 from 15:00 to 19:00
  # Forecast at 44.49, -92.29 (Lake_Pepin)
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
 No rideable periods found :(
@@ -35,7 +39,7 @@ No rideable periods found :(
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 Rideable periods:
 
- - 2026-05-27 from 10:00 to 18:00
+ - 2026-05-27 from 11:00 to 21:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 No rideable periods found :(
