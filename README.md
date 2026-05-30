@@ -23,15 +23,15 @@ Rideable periods:
 No rideable periods found :(
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
-Rideable periods:
-
- - 2026-05-30 from 15:00 to 18:00
+No rideable periods found :(
  # Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)
 ![Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)](Mille_Lacs_Garrison.png?)
 No rideable periods found :(
  # Forecast at 44.49, -92.29 (Lake_Pepin)
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-05-30 from 17:00 to 19:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 No rideable periods found :(
@@ -44,7 +44,7 @@ Rideable periods:
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 Rideable periods:
 
- - 2026-05-30 from 16:00 to 19:00
+ - 2026-05-30 from 16:00 to 20:00
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png?)
 No rideable periods found :(
@@ -62,7 +62,7 @@ Rideable periods:
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
 
- - 2026-05-30 from 12:00 to 16:00
+ - 2026-05-30 from 12:00 to 17:00
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 No rideable periods found :(
