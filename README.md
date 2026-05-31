@@ -55,7 +55,7 @@ No rideable periods found :(
 Rideable periods:
 
  - 2026-06-02 from 15:00 to 18:00
- - 2026-06-03 from 9:00 to 13:00
+ - 2026-06-03 from 9:00 to 15:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 Rideable periods:
