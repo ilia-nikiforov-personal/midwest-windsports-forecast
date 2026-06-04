@@ -31,26 +31,33 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-06-07 from 16:00 to 18:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-06-07 from 11:00 to 13:00
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png?)
 No rideable periods found :(
  # Forecast at 46.01, -95.3 (Miltona)
 ![Forecast at 46.01, -95.3 (Miltona)](Miltona.png?)
-No rideable periods found :(
- # Forecast at 43.13, -93.4 (Clear_Lake_IA)
-![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
-No rideable periods found :(
- # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
-![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
 
- - 2026-06-03 from 10:00 to 15:00
+ - 2026-06-07 from 10:00 to 16:00
+ - 2026-06-07 from 18:00 to 22:00
+ # Forecast at 43.13, -93.4 (Clear_Lake_IA)
+![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
+Rideable periods:
+
+ - 2026-06-04 from 6:00 to 9:00
+ # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
+![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
+No rideable periods found :(
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 Rideable periods:
 
- - 2026-06-04 from 13:00 to 17:00
+ - 2026-06-04 from 15:00 to 17:00
