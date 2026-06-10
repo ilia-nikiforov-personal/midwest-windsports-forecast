@@ -28,7 +28,7 @@ Rideable periods:
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 Rideable periods:
 
- - 2026-06-10 from 8:00 to 12:00
+ - 2026-06-10 from 8:00 to 10:00
  - 2026-06-10 from 15:00 to 21:00
  - 2026-06-12 from 6:00 to 9:00
  - 2026-06-12 from 10:00 to 18:00
@@ -36,7 +36,6 @@ Rideable periods:
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
 Rideable periods:
 
- - 2026-06-10 from 8:00 to 11:00
  - 2026-06-10 from 16:00 to 22:00
  - 2026-06-11 from 6:00 to 8:00
  - 2026-06-12 from 7:00 to 17:00
@@ -88,15 +87,15 @@ Rideable periods:
 Rideable periods:
 
  - 2026-06-10 from 11:00 to 21:00
- - 2026-06-11 from 10:00 to 13:00
- - 2026-06-11 from 16:00 to 18:00
+ - 2026-06-11 from 10:00 to 12:00
+ - 2026-06-11 from 15:00 to 18:00
  - 2026-06-11 from 19:00 to 21:00
  - 2026-06-12 from 9:00 to 17:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
 
- - 2026-06-10 from 7:00 to 15:00
+ - 2026-06-10 from 10:00 to 15:00
  - 2026-06-10 from 16:00 to 20:00
  - 2026-06-11 from 11:00 to 13:00
  - 2026-06-11 from 14:00 to 19:00
