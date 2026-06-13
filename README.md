@@ -10,7 +10,7 @@ at least 2 consecutive daytime hours with:
 Rideable periods:
 
  - 2026-06-12 from 11:00 to 14:00
- - 2026-06-13 from 13:00 to 21:00
+ - 2026-06-13 from 11:00 to 21:00
  - 2026-06-14 from 10:00 to 19:00
  - 2026-06-15 from 12:00 to 15:00
  # Forecast at 45.09, -92.99 (White_Bear_Lake)
@@ -18,7 +18,8 @@ Rideable periods:
 Rideable periods:
 
  - 2026-06-12 from 11:00 to 14:00
- - 2026-06-13 from 14:00 to 17:00
+ - 2026-06-13 from 12:00 to 14:00
+ - 2026-06-13 from 15:00 to 17:00
  - 2026-06-14 from 10:00 to 18:00
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
@@ -88,6 +89,7 @@ Rideable periods:
 Rideable periods:
 
  - 2026-06-12 from 11:00 to 14:00
+ - 2026-06-13 from 12:00 to 14:00
  - 2026-06-13 from 16:00 to 21:00
  - 2026-06-14 from 10:00 to 17:00
  # Forecast at 46.01, -95.3 (Miltona)
@@ -95,7 +97,7 @@ Rideable periods:
 Rideable periods:
 
  - 2026-06-12 from 8:00 to 17:00
- - 2026-06-13 from 9:00 to 19:00
+ - 2026-06-13 from 8:00 to 19:00
  - 2026-06-14 from 10:00 to 20:00
  - 2026-06-15 from 10:00 to 16:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
@@ -109,6 +111,7 @@ Rideable periods:
 Rideable periods:
 
  - 2026-06-12 from 11:00 to 15:00
+ - 2026-06-12 from 20:00 to 22:00
  - 2026-06-13 from 19:00 to 21:00
  - 2026-06-14 from 10:00 to 15:00
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
