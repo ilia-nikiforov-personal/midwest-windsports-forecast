@@ -21,12 +21,12 @@ Rideable periods:
 
  - 2026-06-14 from 12:00 to 15:00
  - 2026-06-16 from 13:00 to 15:00
- - 2026-06-17 from 9:00 to 13:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 Rideable periods:
 
- - 2026-06-14 from 11:00 to 19:00
+ - 2026-06-14 from 11:00 to 16:00
+ - 2026-06-14 from 17:00 to 19:00
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
 Rideable periods:
@@ -34,6 +34,7 @@ Rideable periods:
  - 2026-06-14 from 6:00 to 10:00
  - 2026-06-14 from 11:00 to 15:00
  - 2026-06-14 from 16:00 to 22:00
+ - 2026-06-15 from 11:00 to 13:00
  - 2026-06-15 from 17:00 to 19:00
  # Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)
 ![Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)](Mille_Lacs_Garrison.png?)
@@ -45,6 +46,7 @@ Rideable periods:
 Rideable periods:
 
  - 2026-06-14 from 8:00 to 14:00
+ - 2026-06-14 from 16:00 to 18:00
  - 2026-06-16 from 12:00 to 15:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
@@ -52,7 +54,6 @@ Rideable periods:
 
  - 2026-06-14 from 8:00 to 11:00
  - 2026-06-14 from 12:00 to 14:00
- - 2026-06-17 from 10:00 to 14:00
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 Rideable periods:
@@ -70,7 +71,7 @@ No rideable periods found :(
 ![Forecast at 46.01, -95.3 (Miltona)](Miltona.png?)
 Rideable periods:
 
- - 2026-06-14 from 10:00 to 19:00
+ - 2026-06-14 from 10:00 to 17:00
  - 2026-06-15 from 14:00 to 17:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
@@ -88,5 +89,5 @@ Rideable periods:
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 Rideable periods:
 
- - 2026-06-14 from 14:00 to 18:00
- - 2026-06-16 from 18:00 to 21:00
+ - 2026-06-14 from 14:00 to 16:00
+ - 2026-06-16 from 16:00 to 21:00
