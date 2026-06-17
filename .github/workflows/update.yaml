@@ -12,7 +12,7 @@ jobs:
             - name: checkout
               uses: actions/checkout@v4
             - name: Set up micromamba
-              uses: mamba-org/setup-micromamba@v1.9.0
+              uses: mamba-org/setup-micromamba@latest
               with:
                 environment-name: openmeteo
                 cache-environment: true
