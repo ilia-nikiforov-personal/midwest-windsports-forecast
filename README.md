@@ -40,7 +40,6 @@ Rideable periods:
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 Rideable periods:
 
- - 2026-06-23 from 16:00 to 18:00
  - 2026-06-24 from 14:00 to 19:00
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
