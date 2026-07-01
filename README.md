@@ -16,7 +16,9 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-07-01 from 8:00 to 10:00
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
 No rideable periods found :(
@@ -55,4 +57,4 @@ Rideable periods:
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 Rideable periods:
 
- - 2026-07-01 from 16:00 to 18:00
+ - 2026-07-01 from 15:00 to 18:00
