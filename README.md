@@ -57,9 +57,7 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
-Rideable periods:
-
- - 2026-07-03 from 9:00 to 11:00
+No rideable periods found :(
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 No rideable periods found :(
