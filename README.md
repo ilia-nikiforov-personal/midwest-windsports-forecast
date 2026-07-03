@@ -25,15 +25,15 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 44.49, -92.29 (Lake_Pepin)
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
-Rideable periods:
-
- - 2026-07-05 from 12:00 to 15:00
+No rideable periods found :(
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 No rideable periods found :(
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-07-03 from 18:00 to 20:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 No rideable periods found :(
@@ -42,9 +42,7 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 46.01, -95.3 (Miltona)
 ![Forecast at 46.01, -95.3 (Miltona)](Miltona.png?)
-Rideable periods:
-
- - 2026-07-06 from 18:00 to 20:00
+No rideable periods found :(
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 No rideable periods found :(
