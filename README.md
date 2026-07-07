@@ -28,9 +28,7 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
-Rideable periods:
-
- - 2026-07-08 from 9:00 to 11:00
+No rideable periods found :(
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 No rideable periods found :(
