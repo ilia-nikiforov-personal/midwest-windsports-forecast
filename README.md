@@ -46,9 +46,7 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
-Rideable periods:
-
- - 2026-07-07 from 6:00 to 8:00
+No rideable periods found :(
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 No rideable periods found :(
