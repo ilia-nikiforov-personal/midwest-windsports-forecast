@@ -54,3 +54,4 @@ No rideable periods found :(
 Rideable periods:
 
  - 2026-07-18 from 9:00 to 12:00
+ - 2026-07-18 from 13:00 to 15:00
