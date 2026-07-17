@@ -32,6 +32,7 @@ Rideable periods:
 ![Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)](Mille_Lacs_Garrison.png?)
 Rideable periods:
 
+ - 2026-07-17 from 15:00 to 18:00
  - 2026-07-20 from 15:00 to 21:00
  # Forecast at 44.49, -92.29 (Lake_Pepin)
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
