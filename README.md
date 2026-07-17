@@ -34,7 +34,9 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-07-16 from 19:00 to 21:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 No rideable periods found :(
