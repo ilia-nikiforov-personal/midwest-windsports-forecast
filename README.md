@@ -24,12 +24,12 @@ Rideable periods:
 Rideable periods:
 
  - 2026-07-17 from 19:00 to 22:00
- - 2026-07-18 from 6:00 to 8:00
  - 2026-07-20 from 19:00 to 21:00
  # Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)
 ![Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)](Mille_Lacs_Garrison.png?)
 Rideable periods:
 
+ - 2026-07-17 from 17:00 to 19:00
  - 2026-07-20 from 17:00 to 20:00
  # Forecast at 44.49, -92.29 (Lake_Pepin)
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
@@ -65,4 +65,4 @@ Rideable periods:
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 Rideable periods:
 
- - 2026-07-18 from 15:00 to 21:00
+ - 2026-07-18 from 18:00 to 21:00
