@@ -78,12 +78,11 @@ Rideable periods:
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
 
- - 2026-07-20 from 9:00 to 12:00
  - 2026-07-21 from 9:00 to 19:00
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 Rideable periods:
 
- - 2026-07-20 from 13:00 to 17:00
+ - 2026-07-20 from 14:00 to 17:00
  - 2026-07-21 from 9:00 to 15:00
  - 2026-07-21 from 16:00 to 21:00
