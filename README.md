@@ -79,6 +79,7 @@ Rideable periods:
 Rideable periods:
 
  - 2026-07-20 from 6:00 to 8:00
+ - 2026-07-20 from 13:00 to 15:00
  - 2026-07-21 from 12:00 to 16:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
