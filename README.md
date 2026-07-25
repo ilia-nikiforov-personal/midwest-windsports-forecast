@@ -15,9 +15,7 @@ Rideable periods:
 No rideable periods found :(
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
-Rideable periods:
-
- - 2026-07-26 from 18:00 to 20:00
+No rideable periods found :(
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 Rideable periods:
@@ -58,7 +56,7 @@ Rideable periods:
 ![Forecast at 46.01, -95.3 (Miltona)](Miltona.png?)
 Rideable periods:
 
- - 2026-07-24 from 13:00 to 21:00
+ - 2026-07-24 from 13:00 to 20:00
  - 2026-07-27 from 13:00 to 19:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
