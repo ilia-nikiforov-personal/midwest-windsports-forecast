@@ -29,6 +29,7 @@ No rideable periods found :(
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
 Rideable periods:
 
+ - 2026-07-27 from 8:00 to 10:00
  - 2026-07-27 from 15:00 to 17:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
