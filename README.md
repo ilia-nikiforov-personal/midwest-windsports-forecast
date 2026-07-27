@@ -7,9 +7,7 @@ at least 2 consecutive daytime hours with:
 
  # Forecast at 44.87, -93.76 (Waconia)
 ![Forecast at 44.87, -93.76 (Waconia)](Waconia.png?)
-Rideable periods:
-
- - 2026-07-29 from 18:00 to 21:00
+No rideable periods found :(
  # Forecast at 45.09, -92.99 (White_Bear_Lake)
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
 No rideable periods found :(
@@ -29,7 +27,6 @@ No rideable periods found :(
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
 Rideable periods:
 
- - 2026-07-27 from 8:00 to 10:00
  - 2026-07-27 from 15:00 to 17:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
@@ -49,9 +46,7 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 46.01, -95.3 (Miltona)
 ![Forecast at 46.01, -95.3 (Miltona)](Miltona.png?)
-Rideable periods:
-
- - 2026-07-29 from 16:00 to 19:00
+No rideable periods found :(
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 No rideable periods found :(
@@ -59,9 +54,7 @@ No rideable periods found :(
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
 
- - 2026-07-29 from 18:00 to 21:00
+ - 2026-07-28 from 17:00 to 19:00
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
-Rideable periods:
-
- - 2026-07-28 from 14:00 to 17:00
+No rideable periods found :(
