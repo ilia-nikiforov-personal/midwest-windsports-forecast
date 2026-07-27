@@ -58,4 +58,5 @@ Rideable periods:
 Rideable periods:
 
  - 2026-07-27 from 9:00 to 12:00
+ - 2026-07-27 from 15:00 to 17:00
  - 2026-07-28 from 11:00 to 15:00
