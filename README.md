@@ -13,9 +13,7 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
-Rideable periods:
-
- - 2026-07-29 from 17:00 to 21:00
+No rideable periods found :(
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 No rideable periods found :(
@@ -40,7 +38,6 @@ No rideable periods found :(
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 Rideable periods:
 
- - 2026-07-29 from 19:00 to 21:00
  - 2026-07-30 from 15:00 to 18:00
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png?)
@@ -55,11 +52,10 @@ No rideable periods found :(
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
 
- - 2026-07-29 from 17:00 to 21:00
+ - 2026-07-29 from 19:00 to 21:00
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 Rideable periods:
 
  - 2026-07-27 from 9:00 to 12:00
  - 2026-07-27 from 15:00 to 18:00
- - 2026-07-28 from 10:00 to 15:00
