@@ -69,7 +69,7 @@ Rideable periods:
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 Rideable periods:
 
- - 2026-08-01 from 13:00 to 15:00
+ - 2026-08-01 from 14:00 to 16:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
