@@ -69,14 +69,11 @@ Rideable periods:
  - 2026-08-03 from 8:00 to 21:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
-Rideable periods:
-
- - 2026-08-01 from 13:00 to 16:00
+No rideable periods found :(
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
 
- - 2026-08-01 from 15:00 to 17:00
  - 2026-08-03 from 9:00 to 21:00
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
