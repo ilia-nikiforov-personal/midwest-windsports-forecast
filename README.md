@@ -68,4 +68,6 @@ Rideable periods:
  - 2026-08-03 from 16:00 to 21:00
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-08-02 from 12:00 to 14:00
