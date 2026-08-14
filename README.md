@@ -37,7 +37,9 @@ Rideable periods:
  - 2026-08-15 from 18:00 to 21:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-08-17 from 18:00 to 21:00
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png?)
 No rideable periods found :(
@@ -46,6 +48,7 @@ No rideable periods found :(
 Rideable periods:
 
  - 2026-08-15 from 15:00 to 20:00
+ - 2026-08-17 from 13:00 to 16:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 No rideable periods found :(
