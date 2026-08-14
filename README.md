@@ -43,7 +43,7 @@ Rideable periods:
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 Rideable periods:
 
- - 2026-08-14 from 14:00 to 21:00
+ - 2026-08-14 from 13:00 to 21:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 No rideable periods found :(
@@ -57,9 +57,7 @@ Rideable periods:
  - 2026-08-15 from 13:00 to 19:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
-Rideable periods:
-
- - 2026-08-14 from 13:00 to 15:00
+No rideable periods found :(
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 No rideable periods found :(
