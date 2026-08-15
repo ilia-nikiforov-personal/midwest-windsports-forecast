@@ -36,9 +36,7 @@ Rideable periods:
  - 2026-08-18 from 15:00 to 17:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
-Rideable periods:
-
- - 2026-08-18 from 15:00 to 17:00
+No rideable periods found :(
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 No rideable periods found :(
@@ -66,4 +64,4 @@ Rideable periods:
 Rideable periods:
 
  - 2026-08-16 from 13:00 to 18:00
- - 2026-08-18 from 14:00 to 18:00
+ - 2026-08-18 from 14:00 to 19:00
