@@ -19,7 +19,9 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-08-16 from 7:00 to 9:00
  # Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)
 ![Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)](Mille_Lacs_Garrison.png?)
 No rideable periods found :(
