@@ -40,9 +40,7 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 46.01, -95.3 (Miltona)
 ![Forecast at 46.01, -95.3 (Miltona)](Miltona.png?)
-Rideable periods:
-
- - 2026-08-17 from 16:00 to 18:00
+No rideable periods found :(
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 No rideable periods found :(
@@ -54,4 +52,3 @@ No rideable periods found :(
 Rideable periods:
 
  - 2026-08-16 from 16:00 to 18:00
- - 2026-08-18 from 15:00 to 18:00
