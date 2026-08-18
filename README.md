@@ -26,6 +26,7 @@ No rideable periods found :(
 Rideable periods:
 
  - 2026-08-18 from 15:00 to 17:00
+ - 2026-08-18 from 18:00 to 20:00
  # Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)
 ![Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)](Mille_Lacs_Garrison.png?)
 No rideable periods found :(
