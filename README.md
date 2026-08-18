@@ -7,19 +7,25 @@ at least 2 consecutive daytime hours with:
 
  # Forecast at 44.87, -93.76 (Waconia)
 ![Forecast at 44.87, -93.76 (Waconia)](Waconia.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-08-20 from 18:00 to 20:00
  # Forecast at 45.09, -92.99 (White_Bear_Lake)
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
 No rideable periods found :(
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-08-20 from 16:00 to 18:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 No rideable periods found :(
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-08-18 from 16:00 to 19:00
  # Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)
 ![Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)](Mille_Lacs_Garrison.png?)
 No rideable periods found :(
@@ -27,7 +33,7 @@ No rideable periods found :(
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
 Rideable periods:
 
- - 2026-08-21 from 15:00 to 19:00
+ - 2026-08-20 from 17:00 to 19:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 No rideable periods found :(
@@ -36,13 +42,18 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-08-20 from 17:00 to 19:00
+ - 2026-08-21 from 17:00 to 20:00
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png?)
 No rideable periods found :(
  # Forecast at 46.01, -95.3 (Miltona)
 ![Forecast at 46.01, -95.3 (Miltona)](Miltona.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-08-21 from 11:00 to 18:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 No rideable periods found :(
@@ -51,6 +62,4 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
-Rideable periods:
-
- - 2026-08-21 from 15:00 to 19:00
+No rideable periods found :(
