@@ -60,6 +60,4 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
-Rideable periods:
-
- - 2026-08-21 from 12:00 to 14:00
+No rideable periods found :(
