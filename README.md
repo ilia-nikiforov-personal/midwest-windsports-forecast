@@ -32,10 +32,15 @@ Rideable periods:
  - 2026-08-20 from 12:00 to 14:00
  # Forecast at 44.49, -92.29 (Lake_Pepin)
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-08-21 from 14:00 to 18:00
+ - 2026-08-22 from 13:00 to 16:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-08-22 from 15:00 to 17:00
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 Rideable periods:
@@ -52,6 +57,7 @@ No rideable periods found :(
 Rideable periods:
 
  - 2026-08-20 from 9:00 to 11:00
+ - 2026-08-22 from 10:00 to 12:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 No rideable periods found :(
