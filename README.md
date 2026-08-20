@@ -9,7 +9,7 @@ at least 2 consecutive daytime hours with:
 ![Forecast at 44.87, -93.76 (Waconia)](Waconia.png?)
 Rideable periods:
 
- - 2026-08-22 from 13:00 to 16:00
+ - 2026-08-22 from 13:00 to 15:00
  # Forecast at 45.09, -92.99 (White_Bear_Lake)
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
 No rideable periods found :(
@@ -17,7 +17,7 @@ No rideable periods found :(
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
 Rideable periods:
 
- - 2026-08-22 from 14:00 to 16:00
+ - 2026-08-22 from 14:00 to 17:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 Rideable periods:
@@ -37,12 +37,12 @@ No rideable periods found :(
 Rideable periods:
 
  - 2026-08-21 from 15:00 to 17:00
- - 2026-08-22 from 12:00 to 16:00
+ - 2026-08-22 from 14:00 to 16:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 Rideable periods:
 
- - 2026-08-22 from 13:00 to 17:00
+ - 2026-08-22 from 14:00 to 16:00
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 No rideable periods found :(
