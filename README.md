@@ -20,7 +20,9 @@ Rideable periods:
  - 2026-08-22 from 12:00 to 17:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-08-20 from 10:00 to 12:00
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
 Rideable periods:
@@ -55,7 +57,7 @@ No rideable periods found :(
 ![Forecast at 46.01, -95.3 (Miltona)](Miltona.png?)
 Rideable periods:
 
- - 2026-08-20 from 11:00 to 14:00
+ - 2026-08-20 from 12:00 to 14:00
  - 2026-08-22 from 11:00 to 14:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
