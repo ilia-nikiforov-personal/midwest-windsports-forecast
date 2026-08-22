@@ -14,7 +14,7 @@ Rideable periods:
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
 Rideable periods:
 
- - 2026-08-22 from 12:00 to 17:00
+ - 2026-08-22 from 12:00 to 16:00
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
 No rideable periods found :(
@@ -33,13 +33,13 @@ No rideable periods found :(
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
 Rideable periods:
 
- - 2026-08-22 from 11:00 to 20:00
+ - 2026-08-22 from 11:00 to 19:00
  - 2026-08-25 from 18:00 to 20:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 Rideable periods:
 
- - 2026-08-22 from 14:00 to 17:00
+ - 2026-08-22 from 14:00 to 16:00
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 No rideable periods found :(
