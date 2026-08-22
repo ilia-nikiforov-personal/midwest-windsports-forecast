@@ -10,9 +10,7 @@ at least 2 consecutive daytime hours with:
 No rideable periods found :(
  # Forecast at 45.09, -92.99 (White_Bear_Lake)
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
-Rideable periods:
-
- - 2026-08-22 from 14:00 to 17:00
+No rideable periods found :(
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
 No rideable periods found :(
@@ -37,9 +35,7 @@ Rideable periods:
  - 2026-08-25 from 18:00 to 20:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
-Rideable periods:
-
- - 2026-08-22 from 15:00 to 17:00
+No rideable periods found :(
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 Rideable periods:
