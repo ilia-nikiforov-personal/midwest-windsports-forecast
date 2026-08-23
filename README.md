@@ -44,7 +44,7 @@ Rideable periods:
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 Rideable periods:
 
- - 2026-08-25 from 10:00 to 14:00
+ - 2026-08-25 from 11:00 to 14:00
  - 2026-08-26 from 10:00 to 19:00
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
@@ -67,6 +67,7 @@ Rideable periods:
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 Rideable periods:
 
+ - 2026-08-25 from 9:00 to 11:00
  - 2026-08-25 from 17:00 to 19:00
  - 2026-08-26 from 13:00 to 17:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
