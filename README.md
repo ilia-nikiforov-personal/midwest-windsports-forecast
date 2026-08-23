@@ -9,7 +9,7 @@ at least 2 consecutive daytime hours with:
 ![Forecast at 44.87, -93.76 (Waconia)](Waconia.png?)
 Rideable periods:
 
- - 2026-08-25 from 7:00 to 11:00
+ - 2026-08-25 from 8:00 to 11:00
  - 2026-08-26 from 10:00 to 17:00
  # Forecast at 45.09, -92.99 (White_Bear_Lake)
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
@@ -53,7 +53,7 @@ No rideable periods found :(
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 Rideable periods:
 
- - 2026-08-25 from 7:00 to 10:00
+ - 2026-08-25 from 8:00 to 10:00
  - 2026-08-26 from 10:00 to 17:00
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png?)
