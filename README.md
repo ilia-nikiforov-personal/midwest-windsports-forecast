@@ -21,7 +21,7 @@ No rideable periods found :(
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
 Rideable periods:
 
- - 2026-08-31 from 8:00 to 11:00
+ - 2026-08-31 from 8:00 to 12:00
  # Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)
 ![Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)](Mille_Lacs_Garrison.png?)
 No rideable periods found :(
@@ -36,6 +36,7 @@ No rideable periods found :(
 Rideable periods:
 
  - 2026-08-30 from 11:00 to 20:00
+ - 2026-09-01 from 14:00 to 17:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 No rideable periods found :(
