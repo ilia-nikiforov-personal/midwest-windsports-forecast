@@ -59,7 +59,7 @@ with open("README.md","w") as f:
         params = {
             "latitude": location["latitude"],
             "longitude": location["longitude"],
-            "models": "gfs_seamless",
+            "models": "ncep_hrrr_conus",
             "hourly": [
                 "temperature_2m",
                 "wind_gusts_10m",
