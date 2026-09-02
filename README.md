@@ -33,7 +33,7 @@ No rideable periods found :(
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 Rideable periods:
 
- - 2026-09-03 from 10:00 to 17:00
+ - 2026-09-03 from 11:00 to 17:00
  - 2026-09-03 from 18:00 to 20:00
  - 2026-09-04 from 7:00 to 20:00
  - 2026-09-05 from 12:00 to 20:00
