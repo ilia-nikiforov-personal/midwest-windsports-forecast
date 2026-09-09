@@ -9,13 +9,11 @@ at least 2 consecutive daytime hours with:
 ![Forecast at 44.87, -93.76 (Waconia)](Waconia.png?)
 Rideable periods:
 
- - 2026-09-09 from 16:00 to 18:00
  - 2026-09-11 from 8:00 to 20:00
  # Forecast at 45.09, -92.99 (White_Bear_Lake)
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
 Rideable periods:
 
- - 2026-09-09 from 15:00 to 17:00
  - 2026-09-11 from 7:00 to 20:00
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
@@ -32,7 +30,7 @@ Rideable periods:
 Rideable periods:
 
  - 2026-09-09 from 10:00 to 14:00
- - 2026-09-09 from 15:00 to 20:00
+ - 2026-09-09 from 17:00 to 20:00
  - 2026-09-11 from 8:00 to 14:00
  - 2026-09-11 from 15:00 to 20:00
  # Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)
@@ -56,7 +54,7 @@ Rideable periods:
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 Rideable periods:
 
- - 2026-09-09 from 10:00 to 17:00
+ - 2026-09-09 from 10:00 to 16:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 Rideable periods:
