@@ -26,7 +26,7 @@ Rideable periods:
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 Rideable periods:
 
- - 2026-09-10 from 17:00 to 20:00
+ - 2026-09-10 from 17:00 to 19:00
  - 2026-09-11 from 7:00 to 19:00
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
