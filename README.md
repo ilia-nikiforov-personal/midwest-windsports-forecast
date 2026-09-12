@@ -20,7 +20,7 @@ No rideable periods found :(
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 Rideable periods:
 
- - 2026-09-12 from 13:00 to 16:00
+ - 2026-09-12 from 13:00 to 15:00
  - 2026-09-14 from 9:00 to 11:00
  - 2026-09-15 from 9:00 to 12:00
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
@@ -34,7 +34,7 @@ Rideable periods:
 ![Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)](Mille_Lacs_Garrison.png?)
 Rideable periods:
 
- - 2026-09-12 from 13:00 to 17:00
+ - 2026-09-12 from 13:00 to 15:00
  - 2026-09-14 from 9:00 to 11:00
  # Forecast at 44.49, -92.29 (Lake_Pepin)
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
