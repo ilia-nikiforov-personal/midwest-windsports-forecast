@@ -15,7 +15,7 @@ No rideable periods found :(
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
 Rideable periods:
 
- - 2026-09-18 from 13:00 to 20:00
+ - 2026-09-18 from 18:00 to 20:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 No rideable periods found :(
@@ -24,17 +24,15 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)
 ![Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)](Mille_Lacs_Garrison.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-09-18 from 7:00 to 9:00
  # Forecast at 44.49, -92.29 (Lake_Pepin)
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
-Rideable periods:
-
- - 2026-09-18 from 15:00 to 17:00
+No rideable periods found :(
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
-Rideable periods:
-
- - 2026-09-18 from 15:00 to 18:00
+No rideable periods found :(
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 Rideable periods:
@@ -54,7 +52,7 @@ No rideable periods found :(
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 Rideable periods:
 
- - 2026-09-18 from 14:00 to 16:00
+ - 2026-09-18 from 12:00 to 17:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 No rideable periods found :(
