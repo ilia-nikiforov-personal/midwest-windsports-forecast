@@ -40,6 +40,7 @@ Rideable periods:
 Rideable periods:
 
  - 2026-09-18 from 10:00 to 12:00
+ - 2026-09-18 from 17:00 to 20:00
  - 2026-09-20 from 7:00 to 18:00
  - 2026-09-21 from 13:00 to 20:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
@@ -55,7 +56,7 @@ No rideable periods found :(
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 Rideable periods:
 
- - 2026-09-18 from 10:00 to 17:00
+ - 2026-09-18 from 10:00 to 16:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 No rideable periods found :(
