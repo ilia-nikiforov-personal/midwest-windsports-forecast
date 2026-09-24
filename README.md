@@ -18,8 +18,7 @@ No rideable periods found :(
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 Rideable periods:
 
- - 2026-09-24 from 14:00 to 16:00
- - 2026-09-26 from 9:00 to 14:00
+ - 2026-09-26 from 10:00 to 14:00
  - 2026-09-26 from 16:00 to 19:00
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
@@ -38,9 +37,7 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
-Rideable periods:
-
- - 2026-09-26 from 11:00 to 13:00
+No rideable periods found :(
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png?)
 No rideable periods found :(
@@ -48,7 +45,7 @@ No rideable periods found :(
 ![Forecast at 46.01, -95.3 (Miltona)](Miltona.png?)
 Rideable periods:
 
- - 2026-09-26 from 11:00 to 16:00
+ - 2026-09-26 from 12:00 to 16:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 No rideable periods found :(
