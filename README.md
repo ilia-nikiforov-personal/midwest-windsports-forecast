@@ -7,9 +7,7 @@ at least 2 consecutive daytime hours with:
 
  # Forecast at 44.87, -93.76 (Waconia)
 ![Forecast at 44.87, -93.76 (Waconia)](Waconia.png?)
-Rideable periods:
-
- - 2026-09-28 from 14:00 to 17:00
+No rideable periods found :(
  # Forecast at 45.09, -92.99 (White_Bear_Lake)
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
 No rideable periods found :(
@@ -22,7 +20,6 @@ Rideable periods:
 
  - 2026-09-26 from 9:00 to 13:00
  - 2026-09-26 from 18:00 to 20:00
- - 2026-09-28 from 16:00 to 19:00
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
 No rideable periods found :(
@@ -43,9 +40,7 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
-Rideable periods:
-
- - 2026-09-28 from 13:00 to 18:00
+No rideable periods found :(
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png?)
 No rideable periods found :(
@@ -53,7 +48,7 @@ No rideable periods found :(
 ![Forecast at 46.01, -95.3 (Miltona)](Miltona.png?)
 Rideable periods:
 
- - 2026-09-28 from 10:00 to 20:00
+ - 2026-09-28 from 12:00 to 18:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 No rideable periods found :(
