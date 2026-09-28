@@ -25,7 +25,9 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 44.49, -92.29 (Lake_Pepin)
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-09-29 from 15:00 to 17:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 No rideable periods found :(
@@ -45,7 +47,7 @@ No rideable periods found :(
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 Rideable periods:
 
- - 2026-09-29 from 14:00 to 17:00
+ - 2026-09-29 from 13:00 to 16:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
