@@ -9,6 +9,7 @@ at least 2 consecutive daytime hours with:
 ![Forecast at 44.87, -93.76 (Waconia)](Waconia.png?)
 Rideable periods:
 
+ - 2026-10-09 from 13:00 to 16:00
  - 2026-10-10 from 9:00 to 19:00
  # Forecast at 45.09, -92.99 (White_Bear_Lake)
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
@@ -19,8 +20,9 @@ Rideable periods:
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
 Rideable periods:
 
+ - 2026-10-09 from 15:00 to 17:00
  - 2026-10-10 from 10:00 to 19:00
- - 2026-10-11 from 9:00 to 17:00
+ - 2026-10-11 from 10:00 to 16:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 Rideable periods:
@@ -53,12 +55,11 @@ Rideable periods:
 Rideable periods:
 
  - 2026-10-09 from 17:00 to 19:00
- - 2026-10-12 from 8:00 to 11:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 Rideable periods:
 
- - 2026-10-09 from 13:00 to 17:00
+ - 2026-10-09 from 13:00 to 18:00
  - 2026-10-10 from 9:00 to 19:00
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png?)
@@ -75,17 +76,15 @@ Rideable periods:
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 Rideable periods:
 
- - 2026-10-09 from 14:00 to 17:00
+ - 2026-10-09 from 13:00 to 17:00
  - 2026-10-10 from 10:00 to 19:00
- - 2026-10-11 from 10:00 to 17:00
+ - 2026-10-11 from 12:00 to 17:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
 
  - 2026-10-10 from 8:00 to 19:00
- - 2026-10-11 from 10:00 to 16:00
+ - 2026-10-11 from 11:00 to 16:00
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
-Rideable periods:
-
- - 2026-10-12 from 11:00 to 14:00
+No rideable periods found :(
