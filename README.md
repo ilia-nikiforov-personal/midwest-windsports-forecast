@@ -22,13 +22,12 @@ Rideable periods:
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 Rideable periods:
 
- - 2026-10-15 from 17:00 to 19:00
  - 2026-10-17 from 12:00 to 19:00
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png?)
 Rideable periods:
 
- - 2026-10-15 from 16:00 to 19:00
+ - 2026-10-15 from 17:00 to 19:00
  - 2026-10-17 from 12:00 to 19:00
  # Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)
 ![Forecast at 46.29, -93.82 (Mille_Lacs_Garrison)](Mille_Lacs_Garrison.png?)
@@ -39,7 +38,7 @@ Rideable periods:
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png?)
 Rideable periods:
 
- - 2026-10-17 from 12:00 to 18:00
+ - 2026-10-17 from 12:00 to 19:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 Rideable periods:
@@ -68,7 +67,7 @@ Rideable periods:
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 Rideable periods:
 
- - 2026-10-17 from 12:00 to 19:00
+ - 2026-10-17 from 13:00 to 19:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 Rideable periods:
@@ -78,5 +77,5 @@ Rideable periods:
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 Rideable periods:
 
- - 2026-10-16 from 15:00 to 17:00
- - 2026-10-17 from 14:00 to 16:00
+ - 2026-10-16 from 13:00 to 17:00
+ - 2026-10-17 from 14:00 to 17:00
