@@ -15,7 +15,7 @@ Rideable periods:
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
 Rideable periods:
 
- - 2026-10-17 from 12:00 to 19:00
+ - 2026-10-17 from 11:00 to 19:00
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
 Rideable periods:
@@ -44,13 +44,13 @@ No rideable periods found :(
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
 Rideable periods:
 
- - 2026-10-17 from 12:00 to 17:00
+ - 2026-10-17 from 11:00 to 17:00
  - 2026-10-18 from 11:00 to 17:00
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 Rideable periods:
 
- - 2026-10-17 from 12:00 to 18:00
+ - 2026-10-17 from 11:00 to 18:00
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 Rideable periods:
@@ -72,7 +72,7 @@ Rideable periods:
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png?)
 Rideable periods:
 
- - 2026-10-17 from 13:00 to 18:00
+ - 2026-10-17 from 13:00 to 19:00
  - 2026-10-18 from 12:00 to 18:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
