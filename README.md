@@ -9,12 +9,10 @@ at least 2 consecutive daytime hours with:
 ![Forecast at 44.87, -93.76 (Waconia)](Waconia.png?)
 Rideable periods:
 
- - 2026-10-18 from 11:00 to 17:00
+ - 2026-10-18 from 13:00 to 16:00
  # Forecast at 45.09, -92.99 (White_Bear_Lake)
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png?)
-Rideable periods:
-
- - 2026-10-18 from 11:00 to 13:00
+No rideable periods found :(
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
 Rideable periods:
@@ -47,7 +45,7 @@ Rideable periods:
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png?)
 Rideable periods:
 
- - 2026-10-18 from 11:00 to 15:00
+ - 2026-10-18 from 13:00 to 16:00
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png?)
 No rideable periods found :(
@@ -68,4 +66,4 @@ Rideable periods:
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 Rideable periods:
 
- - 2026-10-18 from 11:00 to 16:00
+ - 2026-10-18 from 12:00 to 16:00
