@@ -24,7 +24,7 @@ locations = [
     {"latitude": 43.13, "longitude": -93.40, "name": "Clear_Lake_IA"},
     {"latitude": 43.48, "longitude": -95.10, "name": "Spirit_Lake_IA"},
     {"latitude": 43.74, "longitude": -87.70, "name": "Sheboygan_WI"},
-    
+    {"latitude": 44.60, "longitude": -97.06, "name": "Dry_Lake_IA"},    
 ]
 consecutive_hours = 2
 min_wind = 13
