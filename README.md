@@ -40,7 +40,6 @@ Rideable periods:
 Rideable periods:
 
  - 2026-10-24 from 10:00 to 12:00
- - 2026-10-24 from 13:00 to 15:00
  - 2026-10-27 from 9:00 to 16:00
  - 2026-10-27 from 17:00 to 19:00
  # Forecast at 46.73, -92.04 (Park_Point)
@@ -63,12 +62,11 @@ No rideable periods found :(
 Rideable periods:
 
  - 2026-10-24 from 8:00 to 13:00
- - 2026-10-24 from 16:00 to 18:00
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 Rideable periods:
 
- - 2026-10-26 from 10:00 to 16:00
+ - 2026-10-26 from 12:00 to 16:00
  # Forecast at 44.6, -97.06 (Dry_Lake_IA)
 ![Forecast at 44.6, -97.06 (Dry_Lake_IA)](Dry_Lake_IA.png?)
 No rideable periods found :(
