@@ -13,9 +13,7 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png?)
-Rideable periods:
-
- - 2026-10-27 from 8:00 to 11:00
+No rideable periods found :(
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png?)
 No rideable periods found :(
@@ -30,9 +28,7 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png?)
-Rideable periods:
-
- - 2026-10-27 from 10:00 to 13:00
+No rideable periods found :(
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png?)
 No rideable periods found :(
@@ -53,7 +49,11 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 43.74, -87.7 (Sheboygan_WI)
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-10-26 from 12:00 to 14:00
+ - 2026-10-26 from 15:00 to 17:00
+ - 2026-10-27 from 9:00 to 11:00
  # Forecast at 44.6, -97.06 (Dry_Lake_IA)
 ![Forecast at 44.6, -97.06 (Dry_Lake_IA)](Dry_Lake_IA.png?)
 No rideable periods found :(
