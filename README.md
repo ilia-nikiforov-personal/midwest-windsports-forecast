@@ -46,6 +46,7 @@ No rideable periods found :(
 Rideable periods:
 
  - 2026-11-09 from 11:00 to 14:00
+ - 2026-11-11 from 13:00 to 15:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png?)
 No rideable periods found :(
@@ -53,7 +54,7 @@ No rideable periods found :(
 ![Forecast at 43.74, -87.7 (Sheboygan_WI)](Sheboygan_WI.png?)
 Rideable periods:
 
- - 2026-11-08 from 12:00 to 15:00
+ - 2026-11-08 from 13:00 to 16:00
  # Forecast at 44.6, -97.06 (Dry_Lake_IA)
 ![Forecast at 44.6, -97.06 (Dry_Lake_IA)](Dry_Lake_IA.png?)
 No rideable periods found :(
