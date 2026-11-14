@@ -68,4 +68,5 @@ No rideable periods found :(
 ![Forecast at 44.6, -97.06 (Dry_Lake_IA)](Dry_Lake_IA.png?)
 Rideable periods:
 
+ - 2026-11-15 from 14:00 to 16:00
  - 2026-11-16 from 12:00 to 17:00
